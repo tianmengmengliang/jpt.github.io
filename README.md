@@ -60,3 +60,7 @@ https://www.runoob.com/w3cnote/js-call-apply-bind.html
 
 bind()的作用
 https://segmentfault.com/q/1010000007936495
+
+创建引入百度地图script的函数.
+https://blog.csdn.net/weixin_44214142/article/details/89424898
+https://bbs.csdn.net/topics/392403055
