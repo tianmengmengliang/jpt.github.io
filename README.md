@@ -35,3 +35,28 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### 前端开发可学习的网址记录
+js获取url里的参数
+https://www.cnblogs.com/yueshutong/p/9442118.html
+
+setInterval 和 setTimeout的区别？
+http://caibaojian.com/javascript-timer.html
+
+generator 和async 区分？
+https://www.cnblogs.com/jiasm/p/8999111.html
+
+前端 100 问：能搞懂 80% 的请把简历给我
+https://juejin.im/post/5d23e750f265da1b855c7bbe#heading-64
+
+前端学习列表
+https://www.runoob.com/w3cnote/js-call-apply-bind.html
+
+正则表达式 – 教程
+https://www.runoob.com/regexp/regexp-intro.html
+
+一个不错的前端学习地址。
+https://www.runoob.com/w3cnote/js-call-apply-bind.html
+
+bind()的作用
+https://segmentfault.com/q/1010000007936495
