@@ -42,7 +42,7 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
 2. display: flex;  flex: 1;
 ```
 
-div被均分为三等份:
+将div均分为三等份:
 https://my.oschina.net/u/266531/blog/795080
 https://blog.csdn.net/weixin_38606332/article/details/80868138
 
