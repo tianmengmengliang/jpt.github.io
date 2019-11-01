@@ -37,6 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 https://blog.csdn.net/qq_34106574/article/details/82704883
 
 ### 前端开发可学习的网址记录
+```markdown
 js获取url里的参数
 https://www.cnblogs.com/yueshutong/p/9442118.html
 
@@ -64,3 +65,4 @@ https://segmentfault.com/q/1010000007936495
 创建引入百度地图script的函数.
 https://blog.csdn.net/weixin_44214142/article/details/89424898
 https://bbs.csdn.net/topics/392403055
+```
