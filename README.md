@@ -36,8 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 搭建自己的github.io博客
 https://blog.csdn.net/qq_34106574/article/details/82704883
 
-### 前端开发可学习的网址记录
+
 ```markdown
+### 前端开发可学习的网址记录
 ```
 js获取url里的参数
 https://www.cnblogs.com/yueshutong/p/9442118.html
@@ -67,3 +68,10 @@ https://segmentfault.com/q/1010000007936495
 https://blog.csdn.net/weixin_44214142/article/details/89424898
 https://bbs.csdn.net/topics/392403055
   
+  
+
+```markdown
+### HTTP学习的网址
+```
+https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+
