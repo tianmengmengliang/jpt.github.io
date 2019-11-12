@@ -76,10 +76,15 @@ https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#
 ```markdown
 ### HTTP学习的网址
 ```
-HTTP学习。
-https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+HTTP学习。 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+跨域资源共享 CORS 详解。  http://www.ruanyifeng.com/blog/2016/04/cors.html
 
-跨域资源共享 CORS 详解。
-http://www.ruanyifeng.com/blog/2016/04/cors.html
+```markdown
+### 各方向前端
+```
+vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
+深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
 
 
+### 问题？
+mock联调：那么你只需要不开本地代理或者重定向代理到目标服务器就可以访问真实的服务端数据，非常方便。（pro项目根本不知道怎么联调？）
