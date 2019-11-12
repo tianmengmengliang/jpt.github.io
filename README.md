@@ -37,8 +37,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 https://blog.csdn.net/qq_34106574/article/details/82704883
 
 
-### 前端开发可学习的网址记录
+
 ```markdown
+### 前端开发可学习的网址记录
+``` 
 js获取url里的参数
 https://www.cnblogs.com/yueshutong/p/9442118.html
 
@@ -66,11 +68,18 @@ https://segmentfault.com/q/1010000007936495
 创建引入百度地图script的函数.
 https://blog.csdn.net/weixin_44214142/article/details/89424898
 https://bbs.csdn.net/topics/392403055
-```  
+
+深入理解 TypeScript。
+https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#%E7%B1%BB%E5%9E%8B%E5%A3%B0%E6%98%8E%E7%A9%BA%E9%97%B4 
   
 
 ```markdown
 ### HTTP学习的网址
 ```
+HTTP学习。
 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+
+跨域资源共享 CORS 详解。
+http://www.ruanyifeng.com/blog/2016/04/cors.html
+
 
