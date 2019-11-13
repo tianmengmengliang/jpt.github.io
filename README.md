@@ -83,6 +83,8 @@ https://bbs.csdn.net/topics/392403055
 ```
 1. vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
 2. 深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
+3. 学习Javascript闭包 http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
+4. https://blog.csdn.net/qq_35585701/article/details/81392174
 
 
 ### 问题？
