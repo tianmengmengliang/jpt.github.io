@@ -75,8 +75,8 @@ https://bbs.csdn.net/topics/392403055
 ```markdown
 ### HTTP学习的网址
 ```
-HTTP学习。 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
-跨域资源共享 CORS 详解。  http://www.ruanyifeng.com/blog/2016/04/cors.html
+- HTTP学习。 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+- 跨域资源共享 CORS 详解。  http://www.ruanyifeng.com/blog/2016/04/cors.html
 
 ```markdown
 ### 各方向前端
