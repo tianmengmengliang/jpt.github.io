@@ -69,8 +69,7 @@ https://segmentfault.com/q/1010000007936495
 https://blog.csdn.net/weixin_44214142/article/details/89424898
 https://bbs.csdn.net/topics/392403055
 
-深入理解 TypeScript。
-https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#%E7%B1%BB%E5%9E%8B%E5%A3%B0%E6%98%8E%E7%A9%BA%E9%97%B4 
+深入理解 TypeScript。https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#%E7%B1%BB%E5%9E%8B%E5%A3%B0%E6%98%8E%E7%A9%BA%E9%97%B4 
   
 
 ```markdown
@@ -82,8 +81,8 @@ HTTP学习。 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
 ```markdown
 ### 各方向前端
 ```
-vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
-深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
+1. vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
+2. 深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
 
 
 ### 问题？
