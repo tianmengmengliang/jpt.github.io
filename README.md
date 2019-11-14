@@ -86,6 +86,9 @@ https://bbs.csdn.net/topics/392403055
 3. 学习Javascript闭包 http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
 4. https://blog.csdn.net/qq_35585701/article/details/81392174
 
+### eslint+vuter+prettier 自动格式化代码配置
+https://www.cnblogs.com/lvonve/p/10785682.html
+https://blog.csdn.net/weixin_36222137/article/details/80040758
 
 ### 问题？
 mock联调：那么你只需要不开本地代理或者重定向代理到目标服务器就可以访问真实的服务端数据，非常方便。（pro项目根本不知道怎么联调？）
