@@ -5,6 +5,6 @@
 
 
 2. - Warning: Stateless function components cannot be given refs. Attempts to access this ref will fail.
-   - 原因：Ref属性指向的节点不能是函数组件。
+   - 原因：Ref属性指向的节点`不能是函数组件`。
    - 解决：子组件（通过forwardRef方法创建）
    https://blog.csdn.net/liwusen/article/details/80009968
