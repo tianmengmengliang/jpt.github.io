@@ -87,7 +87,7 @@ https://bbs.csdn.net/topics/392403055
 4. https://blog.csdn.net/qq_35585701/article/details/81392174
 
 ```markdown
-### eslint+vuter+prettier 自动格式化代码配置
+### VSCode编译器 eslint 代码自动格式化配置
 - https://www.cnblogs.com/lvonve/p/10785682.html
 - https://blog.csdn.net/weixin_36222137/article/details/80040758
 ``` 
