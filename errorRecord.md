@@ -10,4 +10,10 @@
    https://blog.csdn.net/liwusen/article/details/80009968
    
 3. - Uncaught Error: Minified React error #44; visit https://reactjs.org/docs/error-decoder.html/?invariant=44   
-   - ?
+   - 项目构建的框架react版本 和 项目中其他依赖的react版本不一致造成的。不不一致的版本依赖删掉，或都升级使用版本一致的react。
+   
+4. - 异步请求函数报错的问题。
+   - ？？？？
+
+
+
