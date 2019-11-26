@@ -86,6 +86,9 @@ https://bbs.csdn.net/topics/392403055
 3. 学习Javascript闭包 http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
 4. 学习节流与函数防抖区别 https://blog.csdn.net/qq_35585701/article/details/81392174
 
+5. 微信小程序demo，小游戏。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
+6. nodejs必学技能。
+
 ```markdown
 ### VSCode编译器 eslint 代码自动格式化配置
 - https://www.cnblogs.com/lvonve/p/10785682.html
