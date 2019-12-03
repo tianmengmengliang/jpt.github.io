@@ -20,7 +20,7 @@ Array.prototype.isPrototypeOf(fun);//false
 
 js中判断是什么类型的数据typeof
 https://zhidao.baidu.com/question/2013766721575886428.html?fr=iks&word=Object.prototype.toString.call%28%29&ie=gbk
-
+```markdown
 如何判断js中的数据类型：typeof、instanceof、 constructor、 prototype方法比较
 如何判断js中的类型呢，先举几个例子：
 var a = "iamstring.";
@@ -92,3 +92,5 @@ console.log("看看typeof NaN是啥:"+typeof NaN);
 console.log("我想看看数组［1，2，3]类型:"+typeof [1,2,3]);  
 
 console.log("看看function是啥:"+typeof function(){});
+```
+
