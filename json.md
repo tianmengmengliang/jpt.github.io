@@ -1,8 +1,8 @@
-json格式化工具：  
+- json格式化工具：  
 https://www.json.cn/#
 
 
-对象数组：   
+- 对象数组：   
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
 ```markdown
 判断数组类型
@@ -18,7 +18,7 @@ Array.prototype.isPrototypeOf([]);//true
 Array.prototype.isPrototypeOf(fun);//false
 ```
 
-js中判断是什么类型的数据typeof
+- js中判断是什么类型的数据typeof
 https://zhidao.baidu.com/question/2013766721575886428.html?fr=iks&word=Object.prototype.toString.call%28%29&ie=gbk
 ```markdown
 如何判断js中的数据类型：typeof、instanceof、 constructor、 prototype方法比较
