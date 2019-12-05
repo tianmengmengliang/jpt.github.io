@@ -51,3 +51,14 @@ validate(data, callback) {
   });
 }
 ```
+12月份前端学习
+```markdown
+ https://juejin.im/book/5c526902e51d4543805ef35e  你不知道的 Chrome调试技巧。
+ https://juejin.im/post/59ab7b36f265da24934b2470#heading-2  函数绑定。
+ 
+ 继承，实现一个继承示例。
+ 原型链，
+ 继承链
+ 闭包原理。
+ 《javascript高级程序设计》  http、tcp通信。
+```
