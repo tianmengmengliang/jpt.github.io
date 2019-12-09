@@ -14,6 +14,16 @@ https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Content-Type
    ```markdown
    GET: 浏览器用x-www-form-urlencoded的编码方式把form数据转换成一个字串（name1=value1&name2=value2…），然后把这个字串append到url后面，用?分割，加载这个新的url。
    POST: 浏览器把form数据封装到http body中，然后发送到server。
+   
+   若符合下列任一情况，则用POST方法：
+   * 请求的结果有持续性的副作用，例如，数据库内添加新的数据行。
+   * 若使用GET方法，则表单上收集的数据可能让URL过长。
+   * 要传送的数据不是采用7位的ASCII编码。
+
+   若符合下列任一情况，则用GET方法：
+   * 请求是为了查找资源，HTML表单数据仅用来帮助搜索。
+   * 请求结果无持续性的副作用。
+   * 收集的数据及HTML表单内的输入字段名称的总长不超过1024个字符。
    ```
    ## springmvc对application/x-www-form-urlencoded和application/json的处理：
    ```markdown
