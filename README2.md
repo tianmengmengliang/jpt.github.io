@@ -71,7 +71,7 @@ https://www.jianshu.com/p/f30fa27999e3
 yin
 构造函数就是实例对象的原型。
 事实上，js里完全依靠"原型链"(prototype chain)模式来实现继承。
-实现继承：proto会指向上一层的原型对象，而上一层的结构依然类似，那么就利用proto一直指向Object的原型对象上！Object.prototype.__proto__ = null;表示到达最顶端。 如此形成了原型链继承。
+实现继承：proto会指向上一层的原型对象，而上一层的结构依然类似，那么就利用proto一直指向Object的原型对象上！`Object.prototype.__proto__ = null;` 表示到达最顶端。 如此形成了原型链继承。
 
 JS实现继承的几种常用方式
 https://www.jb51.net/article/163679.htm
