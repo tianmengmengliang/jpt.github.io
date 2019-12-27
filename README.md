@@ -91,8 +91,9 @@ https://bbs.csdn.net/topics/392403055
 
 5. 微信小程序demo，小游戏。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
 6. nodejs必学技能。
-
+7. React 全家桶 (包含 hooks) 以及 immutable 数据流.  https://juejin.im/book/5da96626e51d4524ba0fd237
 ```markdown
+
 ### VSCode编译器 eslint 代码自动格式化配置
 - https://www.cnblogs.com/lvonve/p/10785682.html
 - https://blog.csdn.net/weixin_36222137/article/details/80040758
