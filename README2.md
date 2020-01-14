@@ -74,3 +74,10 @@ yin构造函数就是实例对象的原型。 事实上，js里完全依靠"原�
 
 JS实现继承的几种常用方式
 https://www.jb51.net/article/163679.htm
+
+## JavaScript官网文档
+### 继承与原型链
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+```markdown
+当继承的函数被调用时，this 指向的是当前继承对象，而不是继承的函数所在的原型对象。（理解：继承后this就指向了新主人。）
+```
