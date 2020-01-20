@@ -9,6 +9,5 @@ https://www.cnblogs.com/usebtf/p/9912413.html
 ```
 
 ### url-loader | 将小图片url转base64字串的时，对图片大小限制
-```markdown
 [A loader for webpack which transforms files into base64 URIs.](https://webpack.docschina.org/loaders/url-loader/#limit)
-```
+
