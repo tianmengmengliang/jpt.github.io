@@ -1,6 +1,6 @@
 
 
-### process.env.NODE_ENV 的作用
+## process.env.NODE_ENV 的作用
 通过判断这个[变量](https://www.cnblogs.com/usebtf/p/9912413.html)区分开发环境或生产环境。
 ```markdown
 - process.env.NODE_ENV 的作用。
