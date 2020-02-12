@@ -21,8 +21,9 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
 ## flex布局实现div子元素居两边
     ```markdown
     .parent: {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+     }
     ```
+
