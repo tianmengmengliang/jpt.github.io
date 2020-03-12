@@ -26,6 +26,15 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
       align-items: center;
      }
     ```
+## flex布局实现div子元素居中
+    ```markdown
+    .parent: {
+      display: flex;
+      justify-content: center; // 水平
+      align-items: center; // 上下
+     }
+    ```
+
 
 ## 内容撑开宽度
 div{ width:auto; display:inline-block !important; display:inline; }
