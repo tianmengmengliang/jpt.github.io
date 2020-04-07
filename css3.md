@@ -49,7 +49,7 @@ div{ width:auto; display:inline-block !important; display:inline; }
 ## 内容撑开高度
 div{ height:auto !important;  min-height: 400px; max-height: xxxpx; }
 
-## css3中 百分比宽度减去固定宽度 https://www.cnblogs.com/ghfjj/p/7436597.html
+## css3中 百分比减固定宽度 https://www.cnblogs.com/ghfjj/p/7436597.html
   ```markdown
   div{ 
     /*实现了宽度为父容器宽度减去固定的300像素*/ 
