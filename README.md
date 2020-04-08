@@ -114,3 +114,6 @@ https://time.geekbang.org/column/intro/100002201
 1. 导航流程：从输入URL到页面展示，这中间发生了什么？
 https://time.geekbang.org/column/article/117637
 2. 闭包作用原理，react使用闭包的场景？
+3. 前端项目优化：shouldComponentUpdate()
+
+- https://www.cnblogs.com/lvonve/p/10785682.html
