@@ -86,7 +86,7 @@ https://bbs.csdn.net/topics/392403055
 ```
 1. vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
 2. 深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
-3. 学习Javascript闭包 http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
+3. 学习闭包,闭包用途 https://www.cnblogs.com/tumo/p/10678533.html
 4. 学习节流与函数防抖区别 https://blog.csdn.net/qq_35585701/article/details/81392174
 
 5. 微信小程序demo，小游戏。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
