@@ -68,7 +68,7 @@ https://segmentfault.com/q/1010000007936495
 JavaScript 中 call()、apply()、bind() 的用法
 https://www.runoob.com/w3cnote/js-call-apply-bind.html
 
-js高级技巧：函数绑定，柯里化(举例使用到了原型链的内容)，定时器(举例使用到了promise解决函数回调嵌套的问题)，函数节流throttling
+js高级技巧：函数绑定，柯里化(举例使用到了原型链的内容)，定时器(举例使用到了promise解决函数回调嵌套的问题)，函数节流
 https://juejin.im/post/59ab7b36f265da24934b2470#heading-6
 
 创建引入百度地图script的函数.
