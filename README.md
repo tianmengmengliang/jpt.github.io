@@ -94,6 +94,8 @@ https://bbs.csdn.net/topics/392403055
    Antd防抖控制select组件 https://ant.design/components/select-cn/#components-select-demo-select-users
 
 5. 微信小程序demo，小游戏。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
+6. React实现图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
+
 6. nodejs必学技能。
 7. React 全家桶 (包含 hooks) 以及 immutable 数据流.  https://juejin.im/book/5da96626e51d4524ba0fd237
 ```markdown
