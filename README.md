@@ -94,7 +94,8 @@ https://bbs.csdn.net/topics/392403055
    Antd防抖控制select组件 https://ant.design/components/select-cn/#components-select-demo-select-users
 
 5. 微信小程序demo，小游戏。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
-6. 图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
+6. react图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
+   js图片懒加载demo。 https://www.jianshu.com/p/8e2a73638153 原理：不要直接把图片地址放src上，判断之后再把地址放src上。
 
 6. nodejs必学技能。
 7. React 全家桶 (包含 hooks) 以及 immutable 数据流.  https://juejin.im/book/5da96626e51d4524ba0fd237
@@ -119,3 +120,6 @@ https://time.geekbang.org/column/article/117637
 3. 前端项目优化：shouldComponentUpdate()
 
 - https://www.cnblogs.com/lvonve/p/10785682.html
+
+### 业余探索
+菜鸟教程谷歌地图： https://www.runoob.com/try/try.php?filename=tryhtml_map_first
