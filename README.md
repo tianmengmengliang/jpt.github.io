@@ -77,6 +77,7 @@ https://bbs.csdn.net/topics/392403055
 
 深入理解 TypeScript。https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#%E7%B1%BB%E5%9E%8B%E5%A3%B0%E6%98%8E%E7%A9%BA%E9%97%B4 
   
+阮一峰的网络日志WebSocket教程 http://www.ruanyifeng.com/blog/2017/05/websocket.html
 
 ```markdown
 ### HTTP学习的网址
@@ -90,8 +91,8 @@ https://bbs.csdn.net/topics/392403055
 1. vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
 2. 深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
 3. 学习闭包,闭包用途 https://www.cnblogs.com/tumo/p/10678533.html
-4. 学习节流与函数防抖区别 https://blog.csdn.net/qq_35585701/article/details/81392174
-   Antd防抖控制select组件 https://ant.design/components/select-cn/#components-select-demo-select-users
+4. - 学习节流与函数防抖区别 https://blog.csdn.net/qq_35585701/article/details/81392174
+   - Antd防抖控制select组件 https://ant.design/components/select-cn/#components-select-demo-select-users
 
 5. 微信小程序demo，小游戏。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
 6. - react图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
@@ -122,4 +123,6 @@ https://time.geekbang.org/column/article/117637
 - https://www.cnblogs.com/lvonve/p/10785682.html
 
 ### 业余探索
-菜鸟教程谷歌地图： https://www.runoob.com/try/try.php?filename=tryhtml_map_first
+1. 菜鸟教程谷歌地图： https://www.runoob.com/try/try.php?filename=tryhtml_map_first
+2. 词云echart组件demo: https://github.com/ecomfe/echarts-wordcloud#readme
+
