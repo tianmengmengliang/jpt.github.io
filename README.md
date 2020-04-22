@@ -125,6 +125,7 @@ https://time.geekbang.org/column/article/117637
 ### 业余探索
 1. 菜鸟教程谷歌地图： https://www.runoob.com/try/try.php?filename=tryhtml_map_first
 2. 词云echart组件demo: https://github.com/ecomfe/echarts-wordcloud#readme
+3. node版本管理：https://github.com/nvm-sh/nvm
 
 ```markdown
     1、用户输入关键词，地址栏判断是搜索内容还是url地址。
