@@ -13,3 +13,31 @@
 
     <input class="" type="text" autocomplete="off"></input>
 ```
+css绘制三角形 https://www.jb51.net/css/640058.html
+```markdown
+    // 小三角
+    div:after{
+      position: absolute;
+      width: 0px;
+      height: 0px;
+      content: " ";
+      border-top: 100px solid #ff0;
+      border-right: 100px solid transparent;
+      border-left: 100px solid transparent;
+    }
+    // 四色板
+    div:after{
+      position: absolute;
+      width: 250px;
+      height: 250px;
+      content: " ";
+      border-top: 100px solid #ff0;
+      border-right: 100px solid #f00;
+      border-left: 100px solid  #f60;
+      border-bottom: 100px solid #4f0;
+    }
+```
+
+数据统计
+百分比处理：占比项的最后一项的值计算方式为 1减其他各项和。
+当页面展示的数值比较长时占据的空间多的情况，可以通过调整字体大小。
