@@ -43,3 +43,19 @@ css绘制三角形 https://www.jb51.net/css/640058.html
   当页面展示的数值比较长时占据的空间多的情况，可以通过调整字体大小。
   
 Moment.js进行时间类型转换  https://blog.csdn.net/u011646268/article/details/73863524
+
+深拷贝 https://www.jianshu.com/p/55d3e1b3afab
+```markdown
+    1.浅拷贝
+    b复制了a，修改a，b也跟着变。
+    
+    基本数据类型有哪些，number,string,boolean,null,undefined五类。
+    引用数据类型(Object类)有常规名值对的 无序对象{a:1}，数组[1,2,3]，以及函数等。
+
+    当b=a进行拷贝时，其实复制的是a的引用地址，而非堆里面的值。
+    要是在堆内存中也开辟一个新的内存专门为b存放值，就像基本类型那样，就达到深拷贝的效果了。
+    2. 实现深拷贝
+    递归递归去复制所有层级属性。
+    还可以借用 JSON.stringify(obj)和JSON.parse(obj)
+    
+```
