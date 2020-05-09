@@ -61,7 +61,7 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
 
 ## display:inline-block 左右元素上下不对齐的场景
    ```markdown
-     解决办法：把应用 inline-block的元素加上 vertical-align: top; 
+     解决办法：应用inline-block的元素加上 vertical-align: top; 
     .CSSElement {
       display: inline-block;
       vertical-align: top;
