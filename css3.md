@@ -67,3 +67,6 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
       vertical-align: top;
     }
    ```
+
+flex-shrink 属性指定了flex元素的收缩规则。子元素们的宽度之和大于容器宽度的时候才会发生收缩，其收缩的大小是依据 flex-shrink 的值。
+注意：如果元素不是弹性盒对象的元素，则该属性不起作用。设置flex-shrink:0的元素不收缩，其他元素会受到挤压。
