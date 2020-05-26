@@ -81,3 +81,6 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prot
 ```markdown
 当继承的函数被调用时，this 指向的是当前继承对象，而不是继承的函数所在的原型对象。（理解：继承后this就指向了新主人。）
 ```
+
+从blob协议的加密视频地址
+https://blog.csdn.net/superit401/article/details/102698335?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
