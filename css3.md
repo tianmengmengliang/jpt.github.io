@@ -77,5 +77,6 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
      flex-grow: 1; 属性用于设置或检索弹性盒子的扩展比率，占满剩余空间
     align-items: center/baseline; 垂直方向。
     justify-content: flex-start/flex-end/center/space-between/space-around；水平方向。
+    flex-flow: row wrap; 顺序显示，且在必要的时候进行拆行
   ```
 
