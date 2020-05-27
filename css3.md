@@ -75,8 +75,8 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
     flex-shrink：0; 属性指定了flex元素的收缩规则。子元素们的宽度之和大于容器宽度的时候才会发生收缩，其收缩的大小是依据 flex-shrink 的值。
       注意：如果元素不是弹性盒对象的元素，则该属性不起作用。设置flex-shrink:0的元素不收缩，其他元素会受到挤压。
      flex-grow: 1; 属性用于设置或检索弹性盒子的扩展比率，占满剩余空间
-    align-items: center/baseline; 垂直方向。
-    justify-content: flex-start/flex-end/center/space-between/space-around；水平方向的对齐方式。
+    align-items: center/baseline; 上下方向对齐方式。如：金额¥和价格底部轴线对齐。
+    justify-content: flex-start/flex-end/center/space-between/space-around；水平(左右两边)方向的对齐方式。
     flex-flow: row wrap; 顺序显示，且在必要的时候进行拆行
   ```
 
