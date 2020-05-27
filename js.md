@@ -64,3 +64,14 @@ e.preventDefault()是阻止默认行为啊！！
 a元素的默认行为点击会跳转。
 
 异步方式访问事件属性，则应调用 event.persist()事件，这将从池中删除综合事件，并允许用户代码保留对该事件的引用。
+
+### 将参数传递给事件处理程序
+```markdown
+<button onClick={(e) => this.deleteRow(id, e)}>Delete Row</button>
+<button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>
+
+deleteRow(id, event) {
+  event.persist();
+  const type = event.type;
+}
+```
