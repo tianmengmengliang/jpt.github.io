@@ -81,3 +81,4 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
     flex-flow: row wrap; 排列方向，且在必要的时候进行拆行。
   ```
 
+ 文本换行省略号 https://jingyan.baidu.com/article/f54ae2fc7ee91e1e92b8498f.html
