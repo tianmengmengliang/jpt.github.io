@@ -81,12 +81,18 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
     flex-flow: row wrap; 排列方向，且在必要的时候进行拆行。
   ```
 
- 文本换行省略号 https://jingyan.baidu.com/article/f54ae2fc7ee91e1e92b8498f.html
+  文本换行省略号 https://jingyan.baidu.com/article/f54ae2fc7ee91e1e92b8498f.html
   ```markdown
-     overflow: hidden;
-     text-overflow: ellipsis; 
-     display: -webkit-box;
-     -webkit-line-clamp: 3;
-     -webkit-box-orient: vertical;
-     这里要注意不要给标签添加高度，让文字自动撑开多行就行
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    这里要注意不要给标签添加高度，让文字自动撑开多行就行
+  ```
+  ```markdown
+    演示方向到右下角的背景色线性渐变:
+    #grad {
+      background-image: linear-gradient(to right bottom, red , yellow);
+    }
   ```
