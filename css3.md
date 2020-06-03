@@ -18,6 +18,7 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
    ```markdown
     :nth-child(n) 选择器匹配父元素中的第 n 个子元素
    ```
+- > 子元素选择器。
 ## flex布局实现div子元素居两边
    ```markdown
     .parent: {
