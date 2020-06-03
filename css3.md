@@ -16,7 +16,9 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
 - 子代选择符【CSS选择符】：https://www.jianshu.com/p/59d1f60ff74a
 - 所有CSS伪类/元素【所有CSS伪类/伪元素】: https://www.runoob.com/css/css-pseudo-classes.html
    ```markdown
-    :nth-child(n) 选择器匹配父元素中的第 n 个子元素
+    :nth-child(n) 选择器匹配父元素中的第n个子元素
+    
+    伪类:, 伪元素:, 除了selection
    ```
 - 子元素选择器 >。
 ## flex布局实现div子元素居两边
