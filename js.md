@@ -69,14 +69,20 @@ a元素的默认行为点击会跳转。
 ```markdown
 <button onClick={(e) => this.deleteRow(id, e)}>Delete Row</button>
 <button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>
-
-deleteRow(id, event) {
+function deleteRow(id, event) {
   event.persist();
   const type = event.type;
 }
-```
 
-js中函数不会自己绑定的，函数传参时，使用两种方式：
-1. bind()
-2. 返回一个匿名函数。
+<button onClick={deleteRow(id)}>Delete Row</button>
+function deleteRow(id, event) {
+  return function() {
+    console.log(id);
+  }
+}
+```
+js中函数不会自己绑定的，函数传参时：
+1. 使用箭头函数。
+2. bind()
+3. 返回一个匿名函数。
 
