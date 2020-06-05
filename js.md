@@ -75,3 +75,8 @@ deleteRow(id, event) {
   const type = event.type;
 }
 ```
+
+js中函数不会自己绑定的，函数传参时，使用两种方式：
+1. bind()
+2. 返回一个匿名函数。
+
