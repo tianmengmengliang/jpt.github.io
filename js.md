@@ -63,7 +63,8 @@ Moment.js进行时间类型转换  https://blog.csdn.net/u011646268/article/deta
 e.preventDefault()是阻止默认行为啊！！
 a元素的默认行为点击会跳转。
 
-异步方式访问事件属性，则应调用 event.persist()事件，这将从池中删除综合事件，并允许用户代码保留对该事件的引用。
+想要在异步函数中继续使event属性可访问，需要使用event.persist()事件，这将从池中删除综合事件，并允许用户代码保留对该事件的引用。
+https://www.cnblogs.com/lyraLee/p/11577511.html
 
 ### 将参数传递给事件处理程序
 ```markdown
