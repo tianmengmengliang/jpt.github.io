@@ -7,3 +7,10 @@ https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#%E4%BD%93
 
 webpack
 https://webpack.js.org/configuration/externals/
+
+### markdown
+```
+ markdown插件1 https://github.com/sparksuite/simplemde-markdown-editor
+ 
+ markdown插件2 https://www.jianshu.com/p/e39874b690d2
+```
