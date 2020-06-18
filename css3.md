@@ -99,3 +99,7 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
       background-image: linear-gradient(to right bottom, red , yellow);
     }
   ```
+
+rotate存在兼容问题ios手机上图片出不来。 https://juejin.im/post/5d5f449ef265da03a6531f41
+父元素：transform: perspective(400); // 给父级添加这个属性。
+子元素：transform: rotate(180);
