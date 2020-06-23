@@ -12,3 +12,9 @@
 ### url-loader | 将小图片url转base64字串的时，对图片大小限制
 [A loader for webpack which transforms files into base64 URIs.](https://webpack.docschina.org/loaders/url-loader/#limit)
 
+
+## 在react中使用 @符号导入模块
+https://www.jianshu.com/p/f489cce2e7f1
+
+eslint校验问题解决：Unable to resolve path to module '@/xxxx'.eslint(import/no-unresolved)
+https://blog.csdn.net/weixin_34151004/article/details/91854509
