@@ -13,7 +13,7 @@
 [A loader for webpack which transforms files into base64 URIs.](https://webpack.docschina.org/loaders/url-loader/#limit)
 
 
-> 在react中使用 @符号导入模块
+在react中使用 @符号导入模块
 https://www.jianshu.com/p/f489cce2e7f1
 
 eslint校验问题解决：Unable to resolve path to module '@/xxxx'.eslint(import/no-unresolved)
