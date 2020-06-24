@@ -28,3 +28,11 @@ https://lbs.amap.com/api/javascript-api/reference/plugin/#AMap.MouseTool 结束�
 https://lbs.amap.com/faq/js-api/map-js-api/cover/43364/?sug_index=7 用鼠标工具绘制覆盖物，如何获取覆盖物的路径？
 
 https://lbs.amap.com/faq/js-api/map-js-api/cover/43418/?sug_index=0 编辑多边形后如何获取多边形的路径？
+
+
+```markdown
+  勾划区域。
+```
+https://lbs.amap.com/api/javascript-api/example/overlayers/overlay-draw 绘制矢量图。
+https://lbs.amap.com/api/javascript-api/guide/overlays/editable-vector-overlay/?sug_index=0 编辑矢量图
+https://lbs.amap.com/api/javascript-api/example/overlayers/polygon-draw-and-edit 多边形编辑
