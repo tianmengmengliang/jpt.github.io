@@ -6,6 +6,11 @@
 
 ## 高德地图
 ```markdown
+  地图属性
+```
+https://lbs.amap.com/api/javascript-api/example/map/click-to-get-lnglat 鼠标点击-->采点
+
+```markdown
   获取可视区域的坐标；并判断图层在不在区域内。
 ```
 https://lbs.amap.com/api/javascript-api/example/map/limit-map-show-range 获取可视区域的坐标
