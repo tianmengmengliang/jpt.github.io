@@ -107,3 +107,19 @@ https://juejin.im/post/5d5f449ef265da03a6531f41
 
 ## 深入研究 -webkit-overflow-scrolling: touch;移动端及ios页面上下滑动。
 https://www.cnblogs.com/xiahj/p/8036419.html#1--webkit-overflow-scrollingtouch%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F
+
+
+### Cursor:url()自定义鼠标指针样式为图片及图片的偏移量
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor
+  ```css
+/* 关键字值 */
+cursor: pointer;
+cursor: auto;
+
+/* 使用URL，提供一个关键字值作为备用 */
+cursor: url(hand.cur), pointer;
+
+/*  xy的坐标偏移值，最后提供一个关键字值作为备用 */
+cursor:  url(cursor1.png) 4 12, auto;
+cursor:  url(cursor2.png) 2 2, pointer;
+  ```
