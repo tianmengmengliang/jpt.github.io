@@ -18,3 +18,10 @@ https://www.jianshu.com/p/f489cce2e7f1
 
 eslint校验问题解决：Unable to resolve path to module '@/xxxx'.eslint(import/no-unresolved)
 https://blog.csdn.net/weixin_34151004/article/details/91854509
+
+
+
+### 重学webpack配置
+1. webpack基本配置属性说明。 https://segmentfault.com/a/1190000019923659
+2. 掘金站内 webpack 优秀文章汇总。 https://blog.csdn.net/sinat_17775997/article/details/103652370
+3. 从零配置webpack 4+react脚手架（一）https://juejin.im/post/5da5748851882555a8430641
