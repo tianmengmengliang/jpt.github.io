@@ -123,3 +123,14 @@ cursor: url(hand.cur), pointer;
 cursor:  url(cursor1.png) 4 12, auto;
 cursor:  url(cursor2.png) 2 2, pointer;
   ```
+
+## css 线性渐变
+https://www.jianshu.com/p/1a67ef7b2417
+  ```css
+   <style>
+#grad1 {
+  height: 500px;
+  background-image: linear-gradient(-50deg, #FF6219 20px, #FFEAE7 100% 100%);
+}
+</style>
+  ```
