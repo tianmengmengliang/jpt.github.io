@@ -3,6 +3,12 @@
 ## 表单控件的默认值设置
 无论任何控件一旦被表单函数包裹，其的默认值的设置都只能使用 initeValue来设置；自定义的表单子组件被表单函数包裹，子组件里的value属性就是父级设置initeValue在子组件里默认值可通过props.value获取。
 ```
+## react项目中antd样式没生效的情况解决。
+```markdown
+    方式1. 在入口html里直接导入antd样式文件cdn。<link crossorigin="anonymous" integrity="sha384-5vwSfdTy/jvTtw6eQtXrrXmQP83ZwMMv4AL8Zhk8AwaPZ0/2RVyT01xnX9exaNOi" href="https://lib.baomitu.com/antd/4.4.2/antd.css" rel="stylesheet">
+    方式2. 使用 :global{ }将需要修改的样式包裹起来。
+    方式3. 将copy-webpack-plugin插件添加到您的webpack配置中。
+```
 
 ## 高德地图
 ```markdown
