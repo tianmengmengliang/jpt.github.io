@@ -17,7 +17,11 @@
 
 
 5. Warning: Functions are not valid as a React child.This may happen if you return a Component instead of <Component /> from render
+```
    - 期望返回的是一个组件，并非一个函数。
+```
 
 6. Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
+```
    - 自组件没有ref属性，一旦要使用ref就会报错。你的是要使用 React.forwardRef() ？
+```
