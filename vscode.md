@@ -46,3 +46,6 @@
 1.去掉vs code的自动格式化代码功能：disable掉 Prettify插件。
 1.设置成为中文：安装Chinese(Simplified)插件。重启vscode。
 2.设置快捷输入字符提示: 首选项 --> 代码片段 --> 搜索“javascript.json"在里面设置快捷代码片段。
+
+## vscode编辑器使用插件
+ 单词拼写查错：https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
