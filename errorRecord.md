@@ -24,4 +24,5 @@
 6. Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
 ```
    - 自组件没有ref属性，一旦要使用ref就会报错。你的是要使用 React.forwardRef() ？
+   原因：Form()高阶组件，自定表单组件中又包裹了antd表单组件。
 ```
