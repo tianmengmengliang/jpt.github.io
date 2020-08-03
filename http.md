@@ -32,6 +32,8 @@ https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Content-Type
    ```
 
 响应状态码：
+```
   302 暂时重定向。服务端设置。
   403 forbidden。 比如图片资源，通过referrer值判断请求是否来自本站，若不是来自本站则返回403。
   解决方法：就是把referrer设置成no-referrer，请求不会带上referrer信息，对方服务器也就无法拦截了。
+```
