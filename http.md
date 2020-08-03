@@ -30,3 +30,8 @@ https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Content-Type
    application/x-www-form-urlencoded：get方式中queryString的值，和post方式中 body data的值都会被Servlet接受到并转化到Request.getParameter()参数集中，所以@RequestParam可以获取的到。
    application/json：后端必须用@RequestBody接受，因为GET请求没有body所以无法接受，只能使用post方式。
    ```
+
+响应状态码：
+  302 暂时重定向。服务端设置。
+  403 forbidden。 比如图片资源，通过referrer值判断请求是否来自本站，若不是来自本站则返回403。
+  解决方法：就是把referrer设置成no-referrer，请求不会带上referrer信息，对方服务器也就无法拦截了。
