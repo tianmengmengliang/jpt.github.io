@@ -48,7 +48,7 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
 
 
 ## 内容撑开宽度
-div{  width:auto;  display:inline-block !important;  display:inline; }
+div{  width:auto; display:inline-block; }
 ## 内容撑开高度
 div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
 
