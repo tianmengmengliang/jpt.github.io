@@ -42,7 +42,7 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
      .div {
        position: absolute;
        left: 50%;
-       transfrom: translate(-50%, 0);
+       transform: translate(-50%, 0);
      }
    ```
 
