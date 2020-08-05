@@ -145,3 +145,18 @@ http部分
 
 5、还有上面说到的一些知识点会结合项目问一下
 ```
+
+## 前端安全系列（一）：如何防止XSS攻击？
+https://www.freebuf.com/articles/web/185654.html
+```
+ XSS攻击来源分为存储型、反射型和 DOM 型三种。
+ 预防存储型和反射型XSS攻击:
+   1.改成纯前端渲染，把代码和数据分隔开。
+   2.对 HTML 做充分转义。
+   纯前端渲染还需注意避免 DOM型漏洞（例如 onload 事件和 href 中的 javascript:xxx 等，请参考下文”预防 DOM 型 XSS 攻击“部分）。
+   
+ 预防 DOM型 XSS攻击:
+   在使用 .innerHTML、.outerHTML、document.write() 时要特别小心，不要把不可信的数据作为 HTML 插到页面上，而应尽量使用 .textContent、.setAttribute() 等。
+   如果用 Vue/React 技术栈，并且不使用 v-html/dangerouslySetInnerHTML 功能，就在前端 render 阶段避免 innerHTML、outerHTML 的 XSS 隐患。
+   DOM 中的内联事件监听器，如 location、onclick、onerror、onload、onmouseover 等，<a> 标签的 href 属性，JavaScript的 eval()、setTimeout()、setInterval()等，都能把字符串作为代码运行。如果不可信的数据拼接到字符串中传递给这些 API，很容易产生安全隐患，请务必避免。
+```
