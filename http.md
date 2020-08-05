@@ -31,9 +31,18 @@ https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Content-Type
    application/json：后端必须用@RequestBody接受，因为GET请求没有body所以无法接受，只能使用post方式。
    ```
 
-响应状态码：
+## 响应状态码：
 ```
   302 暂时重定向。服务端设置。
   403 forbidden。 比如图片资源，通过referrer值判断请求是否来自本站，若不是来自本站则返回403。
   解决方法：就是把referrer设置成no-referrer，请求不会带上referrer信息，对方服务器也就无法拦截了。
+```
+## 为什么http请求要３次握手与４次挥手？
+https://www.zhihu.com/question/67772889
+```
+  HTTP本身是应用层协议，应用层本身并不约束数据传输层用的啥。
+  如果传输层并不是 TCP/IP ，那就不一定有三次握手什么的。
+  3次握手4次挥手是针对TCP连接来说的
+  3次握手: 用来保障通讯双方,有通信的基础。
+  4次挥手: 用来保障通讯双方,可以安全的回收TCP通信的系统资源。  
 ```
