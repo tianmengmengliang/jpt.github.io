@@ -87,3 +87,6 @@ js中函数不会自己绑定的，函数传参时：
 2. bind()
 3. 返回一个匿名函数。
 
+
+  ## 动态生成决策树
+  https://www.cnblogs.com/hess/p/6626226.html
