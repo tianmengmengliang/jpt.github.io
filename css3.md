@@ -134,3 +134,5 @@ https://www.jianshu.com/p/1a67ef7b2417
 }
 </style>
   ```
+## css中的空白元素、幽灵元素占据空间的问题
+空白元素继承了父级css属性：font-size, line-height, 将其父级样式font-size, line-height都设置为0，这样阻断其继承。
