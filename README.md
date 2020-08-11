@@ -78,6 +78,7 @@ https://bbs.csdn.net/topics/392403055
 深入理解 TypeScript。https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#%E7%B1%BB%E5%9E%8B%E5%A3%B0%E6%98%8E%E7%A9%BA%E9%97%B4 
   
 阮一峰的网络日志WebSocket教程 http://www.ruanyifeng.com/blog/2017/05/websocket.html
+ koa2+WebSocket聊天室demo: https://github.com/ThenMorning/koa2WebSocket/blob/master/client.html
 
 ```markdown
 ### HTTP学习的网址
