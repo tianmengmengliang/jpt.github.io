@@ -77,7 +77,7 @@ https://bbs.csdn.net/topics/392403055
 
 深入理解 TypeScript。https://jkchao.github.io/typescript-book-chinese/project/declarationspaces.html#%E7%B1%BB%E5%9E%8B%E5%A3%B0%E6%98%8E%E7%A9%BA%E9%97%B4 
   
-阮一峰的网络日志WebSocket教程 http://www.ruanyifeng.com/blog/2017/05/websocket.html
+ - 阮一峰的网络日志WebSocket教程 http://www.ruanyifeng.com/blog/2017/05/websocket.html
  - koa2+WebSocket聊天室demo: https://github.com/ThenMorning/koa2WebSocket/blob/master/client.html
 
 ```markdown
@@ -89,7 +89,9 @@ https://bbs.csdn.net/topics/392403055
 ```markdown
 ### 各方向前端
 ```
-1. vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
+1. - vue组件库。 https://element.eleme.cn/#/zh-CN/component/table
+   - vue基础文档。 https://cn.vuejs.org/v2/guide/routing.html
+   
 2. 深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
 3. 学习闭包,闭包用途 https://www.cnblogs.com/tumo/p/10678533.html
 4. - 学习节流与函数防抖区别 https://blog.csdn.net/qq_35585701/article/details/81392174
@@ -97,6 +99,7 @@ https://bbs.csdn.net/topics/392403055
 
 5. - 微信小游戏demo。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
    - 微信小程序demo集合(经典值得学习)。 https://www.runoob.com/w3cnote/wx-xcx-repo.html
+   
 6. - react图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
    - js图片懒加载demo。 https://www.jianshu.com/p/8e2a73638153 原理：不要直接把图片地址放src上，判断之后再把地址放src上。
 
