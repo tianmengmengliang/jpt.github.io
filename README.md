@@ -99,6 +99,7 @@ https://bbs.csdn.net/topics/392403055
 
 5. - 微信小游戏demo。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
    - 微信小程序demo集合(经典值得学习)。 https://www.runoob.com/w3cnote/wx-xcx-repo.html
+   - 注意：小程序、H5不要设置`font-family`设置字体，因为android端不支持，加粗的话使用`font-weight: bold;`
    
 6. - react图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
    - js图片懒加载demo。 https://www.jianshu.com/p/8e2a73638153 原理：不要直接把图片地址放src上，判断之后再把地址放src上。
