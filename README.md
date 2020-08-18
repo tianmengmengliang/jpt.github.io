@@ -101,6 +101,7 @@ https://bbs.csdn.net/topics/392403055
 5. - 微信小游戏demo。 https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#体验小程序
    - 微信小程序demo集合(经典值得学习)。 https://www.runoob.com/w3cnote/wx-xcx-repo.html
    - 微信小程序demo(下拉刷新，上拉加载更多)。 https://github.com/SuperKieran/weapp-artand
+   - 微信小程序demo谁是杀手 http://www.wxapp-union.com/forum.php?mod=viewthread&tid=5450&highlight=%E6%B8%B8%E6%88%8F
    - 注意：小程序、H5不要使用 `font-family`设置字体，因为android端不支持，加粗的话使用`font-weight: bold;`
 
 6. - react图片懒加载demo。 https://www.jianshu.com/p/6e8a76e8fab9
