@@ -136,3 +136,22 @@ https://www.jianshu.com/p/1a67ef7b2417
   ```
 ## css中的空白元素、幽灵元素占据空间的问题
 空白元素继承了父级css属性：font-size, line-height, 将其父级样式font-size, line-height都设置为0，这样阻断其继承。
+
+## css阻止文本选中 和 改变默认选中颜色
+   ```css
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+             user-select: none;
+             
+     ::selection {
+          background:#d3d3d3; 
+          color:#555;
+      }        
+   ```
+## :before和::before的区别
+二者写法是等效的，都表示伪元素。
+- :before是CSS2的写法，::before是CSS3的写法。
+- :before的兼容性比::before兼容性好，但是H5开发中建议使用::before
+- 注意：
+ 伪元素要配合content属性一起使用   
