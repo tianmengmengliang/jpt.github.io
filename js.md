@@ -93,8 +93,8 @@ js中函数不会自己绑定的，函数传参时：
 ![image](https://images2015.cnblogs.com/blog/982312/201703/982312-20170327130533686-1341123924.gif)
 
  ## js 获取页面滚动事件及滚动距离
- [js-监听页面滚动](https://www.cnblogs.com/liuqingxia/p/10694101.html)
- [js 获取浏览器页面滚动的高度](https://www.cnblogs.com/pumushan/p/4969104.html)
+ - [js-监听页面滚动](https://www.cnblogs.com/liuqingxia/p/10694101.html)
+ - [js 获取浏览器页面滚动的高度](https://www.cnblogs.com/pumushan/p/4969104.html)
  
  获取元素在页面中位置
  ```js
