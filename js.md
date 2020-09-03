@@ -106,3 +106,10 @@ js中函数不会自己绑定的，函数传参时：
  - [js获取元素的滚动高度，和距离顶部的高度](https://www.cnblogs.com/wangyihong/p/8056859.html)
 
 ## 前端如何解决跨域的问题？
+https://blog.csdn.net/weixin_30929195/article/details/97796143?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.edu_weight
+跨域的问题由浏览器拦截了请求造成的。 浏览器根据预检请求的响应头里的信息判断是否跨域，跨域了则拦截请求。 解决跨域img、script这些标签是不受同源策略限制，但仅限get请求方式，post请求没办法的。
+
+## iframe 无法嵌入页面的问题。
+https://blog.csdn.net/chenyanggo/article/details/77946360
+
+
