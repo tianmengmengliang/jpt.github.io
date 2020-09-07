@@ -2,6 +2,9 @@
 ```markdown
 ## 表单控件的默认值设置
 无论任何控件一旦被表单函数包裹，其的默认值的设置都只能使用 initeValue来设置；自定义的表单子组件被表单函数包裹，子组件里的value属性就是父级设置initeValue在子组件里默认值可通过props.value获取。
+
+## 表单控件为必填状态时，校验产生的校验提示信息， 因场景需要控件变非必填控件后，提示信息仍存在的问题处理。
+用 form.resetFields({ fieldName: undefined }); // 重置某控件值。
 ```
 ## react项目中antd样式没生效的情况解决。
 ```markdown
