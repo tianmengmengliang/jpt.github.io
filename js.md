@@ -109,7 +109,8 @@ js中函数不会自己绑定的，函数传参时：
 https://blog.csdn.net/weixin_30929195/article/details/97796143?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.edu_weight
 跨域的问题由浏览器拦截了请求造成的。 浏览器根据预检请求的响应头里的信息判断是否跨域，跨域了则拦截请求。 解决跨域img、script这些标签是不受同源策略限制，但仅限get请求方式，post请求没办法的。
 
-## iframe 无法嵌入页面的问题。
+## iframe无法嵌入页面的问题。
 https://blog.csdn.net/chenyanggo/article/details/77946360
 
-
+## 抽象语法树AST，中的type表示什么呢？
+ type 表达当前块的类型。 https://blog.csdn.net/weixin_44135121/article/details/104161823?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight
