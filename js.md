@@ -114,3 +114,8 @@ https://blog.csdn.net/chenyanggo/article/details/77946360
 
 ## 抽象语法树AST，中的type表示什么呢？
  type 表达当前块的类型。 https://blog.csdn.net/weixin_44135121/article/details/104161823?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight
+
+ 代码转 抽象语法树的在线演示：https://resources.jointjs.com/demos/javascript-ast
+
+
+  
