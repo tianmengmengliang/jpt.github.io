@@ -3,12 +3,20 @@
 css3 实现左右布局: `主要用于券布局`
 https://blog.csdn.net/qq_40190624/article/details/89463203
 https://blog.csdn.net/weixin_38606332/article/details/80868138
-```markdown
-  1. display: table;  display: table-cell;
-  2. display: flex;  flex: 1;
-```
-
+  ```markdown
+    div.parent{
+      display:flex;
+    }
+    div.child{
+      margin:auto;
+    }
+  ```
 将div均分为三等份:
+ ```markdown
+    1. .parent: { display: table;} .son { display: table-cell;}
+       
+    2. .parent: { display: flex;} .son { flex: 1;}
+  ```
 https://my.oschina.net/u/266531/blog/795080
 https://blog.csdn.net/weixin_38606332/article/details/80868138
 
