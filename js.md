@@ -1,5 +1,5 @@
-编程题：js获取一个数组中的连续数字
-  https://blog.csdn.net/gj158187/article/details/80537844?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160016509219725250358700%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=160016509219725250358700&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~pc_rank_v3-2-80537844.pc_ecpm_v3_pc_rank_v3&utm_term=js%E5%B0%86%E8%BF%9E%E7%BB%AD%E7%9A%84%E6%95%B0%E5%AD%97&spm=1018.2118.3001.4187
+编程题：JS数组reduce()方法详解及高级技巧
+  https://www.jianshu.com/p/e375ba1cfc47
 
 
 JS判断值是否是数字
