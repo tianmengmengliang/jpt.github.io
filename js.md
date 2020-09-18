@@ -50,6 +50,11 @@ css绘制三角形 https://www.jb51.net/css/640058.html
       border-bottom: 100px solid #4f0;
     }
 ```
+js中截取字符串的三个方法 substring()、substr()、slice()
+https://segmentfault.com/a/1190000016387899
+``` 
+   常使用的截取方法为substr()
+```
 
 数据统计页面遇到的处理。
   百分比处理：占比项的最后一项的值计算方式为 1减其他各项和。
