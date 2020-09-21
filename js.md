@@ -136,4 +136,10 @@ https://blog.csdn.net/chenyanggo/article/details/77946360
  代码转 抽象语法树的在线演示：https://resources.jointjs.com/demos/javascript-ast
 
 
-  
+## 面试题：彻底弄懂函数防抖和节流
+https://blog.csdn.net/chenxi_li/article/details/101100467?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight
+
+> 在事件被触发n秒后再执行回调，如果在这n秒内又被触发，则重新计时。
+> 函数节流的目的，是为了限制函数一段时间内能执行的次数。
+
+
