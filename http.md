@@ -46,3 +46,8 @@ https://www.zhihu.com/question/67772889
   3次握手: 用来保障通讯双方,有通信的基础。
   4次挥手: 用来保障通讯双方,可以安全的回收TCP通信的系统资源。  
 ```
+> HTTP访问控制（CORS）
+https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS
+
+> 前端面试之旅
+https://juejin.im/post/6844903889653760007
