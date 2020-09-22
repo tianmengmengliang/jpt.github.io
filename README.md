@@ -109,6 +109,21 @@ https://bbs.csdn.net/topics/392403055
 
 6. nodejs必学技能。
 7. React 全家桶 (包含 hooks) 以及 immutable 数据流.  https://juejin.im/book/5da96626e51d4524ba0fd237
+
+8. 浅谈变量提升：https://www.jianshu.com/p/66fb876a9bb9
+   使用 var来声明变量的时候，会提到当前作用域的顶端，而赋值操作在原处不变。  var 和 let 的区别， let 不会变量提升。
+   
+9. IE盒模型和标准盒模型的区别 https://www.jianshu.com/p/ec3df7783799
+   标准下padding、border所占的空间不在width、height范围内； 而IE盒模型width包括content尺寸＋padding＋border的总和。
+   
+   https://www.jianshu.com/p/cc2bc404269b
+   语法：
+    box-sizing: border-box || content-box || inherit
+    当使用content-box时：页面将采用标准模式来解析计算，content-box也是默认模式
+    当使用border-box时，页面将采用怪异模式解析计算，怪异模式也称为IE模式
+    当使用inherit时：页面将从父元素继承box-sizing的值
+ 
+   
 ```markdown
 
 ### VSCode编译器 eslint 代码自动格式化配置
