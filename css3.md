@@ -72,11 +72,11 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
 
 ## display:inline-block 左右元素上下不对齐的场景
    ```markdown
-     解决办法：应用inline-block的元素加上 vertical-align: top; 
-    .CSSElement {
-      display: inline-block;
-      vertical-align: top;
-    }
+     1.设置了属性 display：inline-block，是基于baseline对齐的，同一行的元素高度不同，会导致上下不齐。
+     常用解决方案：
+      添加 vertical-align属性，如 vertical-align: top|center; // 居顶|居中对齐。
+      
+     2.设置了属性 display：inline-block， 左右有间隔。是因为换行符的存在；归类为幽灵元素问题。
    ```
 
    ```markdown
@@ -143,7 +143,8 @@ https://www.jianshu.com/p/1a67ef7b2417
 </style>
   ```
 ## css中的空白元素、幽灵元素占据空间的问题
-空白元素继承了父级css属性：父级样式 font-size, line-height都设置为0，这样阻断其继承。
+   原因：继承了父级css样式。
+   空白元素继承了父级css属性：父级样式 font-size, line-height都设置为0，这样阻断其继承。
 
 ## css阻止文本选中 和 改变默认选中颜色
    ```css
