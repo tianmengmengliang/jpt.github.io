@@ -117,12 +117,15 @@ https://bbs.csdn.net/topics/392403055
    标准下padding、border所占的空间不在width、height范围内； 而IE盒模型width包括content尺寸＋padding＋border的总和。
    
    https://www.jianshu.com/p/cc2bc404269b
+   ```markdown
    语法：
     box-sizing: border-box || content-box || inherit
     当使用content-box时：页面将采用标准模式来解析计算，content-box也是默认模式
     当使用border-box时，页面将采用怪异模式解析计算，怪异模式也称为IE模式
     当使用inherit时：页面将从父元素继承box-sizing的值
- 
+   ```
+ 10. js内存泄漏的场景 https://www.jianshu.com/p/5a165812aaa8
+     变量，不会被回收。
    
 ```markdown
 
