@@ -131,6 +131,8 @@ https://bbs.csdn.net/topics/392403055
    ```
  10. js内存泄漏的场景 https://www.jianshu.com/p/5a165812aaa8
      变量，不会被回收。
+     
+ 11. ajax、axios、fetch之间优缺点重点对比 https://zhuanlan.zhihu.com/p/58062212
    
 ```markdown
 
