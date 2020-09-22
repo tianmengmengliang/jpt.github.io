@@ -79,6 +79,7 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
      2.设置了属性 display：inline-block， 左右有间隔。是因为换行符的存在；归类为幽灵元素问题。
    ```
 
+## flex
    ```markdown
     display: flex;
     flex-direction: row/column; //布局方向水平排列/竖直排列。
