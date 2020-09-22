@@ -116,7 +116,10 @@ https://bbs.csdn.net/topics/392403055
    使用 var来声明变量的时候，会提到当前作用域的顶端，而赋值操作在原处不变。  var 和 let 的区别， let 不会变量提升。
    
 9. IE盒模型和标准盒模型的区别 https://www.jianshu.com/p/ec3df7783799
-   标准下padding、border所占的空间不在width、height范围内； 而IE盒模型width包括content尺寸＋padding＋border的总和。
+   ```
+   标准盒模型下 padding、border所占的空间不在width、height范围内； 
+   而IE盒模型的宽高包括content尺寸＋padding＋border的总和。
+   ```
    
    https://www.jianshu.com/p/cc2bc404269b
    ```markdown
