@@ -38,3 +38,6 @@ https://www.jianshu.com/p/2896acb5746b
 ## react项目本地运行正常，线上报错，引用的某依赖包和项目框架包react版本不一致的问题。
 1. 将版本不一致的依赖包全部干掉。
 2. 项目迁移。
+
+## Redux与它的中间件：redux-thunk，redux-actions，redux-promise，redux-saga
+https://www.cnblogs.com/vvjiang/p/9505646.html
