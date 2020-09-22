@@ -95,6 +95,8 @@ https://bbs.csdn.net/topics/392403055
    
 2. 深入理解 TypeScript。 https://jkchao.github.io/typescript-book-chinese/typings/overview.html
 3. 学习闭包,闭包用途 https://www.cnblogs.com/tumo/p/10678533.html
+   - 闭包完美回答。https://segmentfault.com/q/1010000011444538
+   
 4. - 学习节流与函数防抖区别 https://blog.csdn.net/qq_35585701/article/details/81392174
    - Antd防抖控制select组件 https://ant.design/components/select-cn/#components-select-demo-select-users
 
