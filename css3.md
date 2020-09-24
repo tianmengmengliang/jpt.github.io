@@ -70,7 +70,7 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
     }
    ```
 
-## display:inline-block 左右元素上下不对齐的场景
+## inline-block 左右元素上下不对齐的问题。
    ```markdown
      1.设置了属性 display：inline-block，是基于baseline对齐的，同一行的元素高度不同，会导致上下不齐。
      常用解决方案：
@@ -79,7 +79,7 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
      2.设置了属性 display：inline-block， 左右有间隔。是因为换行符的存在；归类为幽灵元素问题。
    ```
 
-## flex
+## flex 布局
    ```markdown
     display: flex;
     flex-direction: row/column; //布局方向水平排列/竖直排列。
