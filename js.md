@@ -1,3 +1,9 @@
+# 语法糖是什么？
+https://www.zhihu.com/question/20651624
+```markdown
+  
+```
+
 编程题：
 
  JS数组reduce()方法详解及高级技巧
@@ -8,7 +14,6 @@ js连续赋值的问题：  https://blog.csdn.net/yjd19970908/article/details/80
 前端系统复习之CSS盒模型： https://blog.csdn.net/m0_37585915/article/details/78501760
 
 https://blog.csdn.net/xuehangongzi/article/details/80713786?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.edu_weight
-
 
 
 JS判断值是否是数字
