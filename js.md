@@ -147,4 +147,7 @@ https://blog.csdn.net/chenxi_li/article/details/101100467?utm_medium=distribute.
 > 在事件被触发n秒后再执行回调，如果在这n秒内又被触发，则重新计时。
 > 函数节流的目的，是为了限制函数一段时间内能执行的次数。
 
-
+```markdown
+   1. 循环引用的对象使用 JSON.stringify 为什么会报错?
+   https://www.cnblogs.com/zhangguicheng/p/12173538.html
+```
