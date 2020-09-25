@@ -150,4 +150,18 @@ https://blog.csdn.net/chenxi_li/article/details/101100467?utm_medium=distribute.
 ```markdown
    1. 循环引用的对象使用 JSON.stringify 为什么会报错?
    https://www.cnblogs.com/zhangguicheng/p/12173538.html
+   
+   2. 九种跨域方式实现原理（完整版）
+   https://www.cnblogs.com/fundebug/p/10329202.html
+   
+   3. 前端面试之旅
+   https://juejin.im/post/6844903889653760007
+   
+   4. 闭包为什么会造成内存泄漏？
+   https://blog.csdn.net/kk211814/article/details/88323872
+   
+   5. 对cookie和session的认识?
+   https://www.cnblogs.com/zoo-x/articles/12560587.html
+   
+   6. generator和async await有什么区别 ?
 ```
