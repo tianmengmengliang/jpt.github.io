@@ -133,6 +133,8 @@ https://bbs.csdn.net/topics/392403055
      变量，不会被回收。
      
  11. ajax、axios、fetch之间优缺点重点对比 https://zhuanlan.zhihu.com/p/58062212
+ 
+ 12. 关于setTimeout()你所不知道的地方,详解（重要）http://caibaojian.com/about-settimeout.html
    
 ```markdown
 
