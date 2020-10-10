@@ -70,13 +70,13 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
     }
    ```
 
-## inline-block 左右元素上下不对齐的问题。
+### inline-block 左右上下不对齐的问题原因。
    ```markdown
      1.设置了属性 display：inline-block，是基于baseline对齐的，同一行的元素高度不同，会导致上下不齐。
-     常用解决方案：
+     解决：
       添加 vertical-align属性，如 vertical-align: top|center; // 居顶|居中对齐。
       
-     2.设置了属性 display：inline-block， 左右有间隔。是因为换行符的存在；归类为幽灵元素问题。
+     2.设置了属性 display：inline-block， 左右有间隔。 因为换行符的存在；归类为幽灵元素问题。
    ```
 
 ## flex 布局
