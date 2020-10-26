@@ -1,5 +1,11 @@
 
 ```markdown
+## Swiper
+mySwiper.progress
+https://www.swiper.com.cn/api/properties/243.html
+https://www.swiper.com.cn/api/properties/246.html // 自动功能，不知道有什么属性时，控制台打印。
+
+
 ## 表单控件的默认值设置
 无论任何控件一旦被表单函数包裹，其的默认值的设置都只能使用 initeValue来设置；自定义的表单子组件被表单函数包裹，子组件里的value属性就是父级设置initeValue在子组件里默认值可通过props.value获取。
 
