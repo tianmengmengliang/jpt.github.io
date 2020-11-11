@@ -1,3 +1,5 @@
+阻止事件冒泡、阻止默认行为：https://www.jb51.net/article/168413.htm
+
 # 语法糖是什么？
 https://www.zhihu.com/question/20651624
 ```markdown
