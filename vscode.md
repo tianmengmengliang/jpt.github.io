@@ -1,3 +1,4 @@
+```js
 {
   "editor.fontSize": 14,
   // vscode默认启用了根据文件类型自动设置tabsize的选项
@@ -42,10 +43,14 @@
   "stylusSupremacy.insertNewLineAroundImports": false, // import之后是否换行
   "stylusSupremacy.insertNewLineAroundBlocks": false // 两个选择器中是否换行
 }
-
+```
 1.去掉vs code的自动格式化代码功能：disable掉 Prettify插件。
 1.设置成为中文：安装Chinese(Simplified)插件。重启vscode。
 2.设置快捷输入字符提示: 首选项 --> 代码片段 --> 搜索“javascript.json"在里面设置快捷代码片段。
 
 ## vscode编辑器使用插件
  单词拼写查错：https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+ VSCode 必装的 10 个高效开发插件 https://www.cnblogs.com/parry/p/vscode_top_ten_plugins.html 
+ ESLint问题记录 https://www.cnblogs.com/ljangle/p/11364788.html 
+ 
+ 
