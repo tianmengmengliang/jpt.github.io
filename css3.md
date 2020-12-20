@@ -14,9 +14,8 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
   ```
 将div均分为三等份:
  ```markdown
-    1. .parent: { display: table;} .son { display: table-cell;}
-       
-    2. .parent: { display: flex;} .son { flex: 1;}
+    方式1. .parent: { display: table;} .son { display: table-cell;}
+    方式2. .parent: { display: flex;} .son { flex: 1;}
   ```
 https://my.oschina.net/u/266531/blog/795080
 https://blog.csdn.net/weixin_38606332/article/details/80868138
@@ -73,8 +72,8 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
 
 ### inline-block 左右上下对不齐的问题原因。
    ```markdown
-     1.属性display: inline-block;是基于baseline对齐方式，同行的元素高度不同，会导致上下不齐。
-      添加：vertical-align属性，如 vertical-align: top|center; // 居顶|居中对齐。
+     1.属性display: inline-block;是基于baseline对齐方式，同行的元素高度不同，会导致上下对不齐。
+       添加：vertical-align属性，如vertical-align: top|center; // 居顶|居中对齐。
       
      2.属性 display: inline-block; 左右有间隔。因为换行符的存在；归类为幽灵元素问题。
    ```
