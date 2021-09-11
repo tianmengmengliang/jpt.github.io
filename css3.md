@@ -73,7 +73,7 @@ div{  height:auto !important;  min-height:400px;  max-height:xxxpx; }
 ### inline-block 左右上下对不齐的问题原因。
    ```markdown
      1.属性display: inline-block;是基于baseline对齐方式，同行的元素高度不同，会导致上下对不齐。
-       添加：vertical-align属性，如vertical-align: top|center; // 居顶|居中对齐。
+       添加：vertical-align属性，如vertical-align: top|middle|bottom; // 居顶|居中对齐。
       
      2.属性 display: inline-block; 左右有间隔。因为换行符的存在；归类为幽灵元素问题。
    ```
