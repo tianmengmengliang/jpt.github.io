@@ -46,12 +46,20 @@ https://blog.csdn.net/weixin_38606332/article/details/80868138
       align-items: center; // 上下
      }
      
-     方法2.使用百分比定位居中（地图组件里的关联度级别刻度条）
+     方法2.子元素使用百分比定位居中（地图组件里的关联度级别刻度条）
      .div {
        position: absolute;
        left: 50%;
        transform: translate(-50%, 0);
      }
+     
+     方法3. 
+     .parent: { text-align: center; }
+     // 所有子元素都要设置该样式
+     .son: { 
+        display: inline-block;
+        vertical-align: middle;
+      }
    ```
 
 
